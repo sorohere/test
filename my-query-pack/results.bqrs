@@ -1,0 +1,633 @@
+Œ”{ activ ...  true }j/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-chrome-extension/src/background/index.ts5This is a potential data sink (argument to 'query').{ query, variables }i/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-chrome-extension/src/utils/requestDb.tsgetOper ... ) ?? ''‹/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/loading/components/__stories__/UserOrMetadataLoader.stories.tsx“/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/activities/calendar/components/__stories__/Calendar.stories.tsx'FindManyActivities'¨/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/activities/timeline-activities/components/__stories__/TimelineActivities.stories.tsx'FindMa ... vities''FindOn ... rEvent'º/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/activities/timeline-activities/rows/calendar/components/__stories__/EventCardCalendarEvent.stories.tsx'FindOneMessage'³/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/activities/timeline-activities/rows/message/components/__stories__/EventCardMessage.stories.tsx	'Search'/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/command-menu/components/__stories__/CommandMenu.stories.tsx{\n      ...       }y/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/databases/hooks/useSyncRemoteTable.ts†/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/databases/hooks/useSyncRemoteTableSchemaChanges.ts{\n      ... ,\n    }‰/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/object-metadata/hooks/useRefreshObjectMetadataItem.ts{ query ... _USER }Š/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/object-metadata/hooks/useUpdateOneFieldMetadataItem.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/object-record/multiple-objects/hooks/usePerformCombinedFindManyRecords.ts´/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/object-record/record-picker/multiple-record-picker/hooks/useMultipleRecordPickerPerformSearch.ts‚/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/views/hooks/internal/useViewFromQueryParams.ts'FindMa ... counts'»/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/modules/workflow/workflow-steps/workflow-actions/components/__stories__/WorkflowEditActionSendEmail.stories.tsxw/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/auth/__stories__/SignInUp.stories.tsx/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/auth/__stories__/SignInUpWithInvite.stories.tsx|/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/auth/__stories__/PasswordReset.stories.tsx'FindManyPeople'†/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/object-record/__stories__/RecordShowPage.stories.tsx'FindOnePerson''FindOn ... Member'„/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/CreateWorkspace.stories.tsx‚/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/CreateProfile.stories.tsxƒ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/ChooseYourPlan.stories.tsx/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/InviteTeam.stories.tsxƒ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/PaymentSuccess.stories.tsx/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/onboarding/__stories__/SyncEmails.stories.tsx’/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/accounts/__stories__/SettingsAccountsEmails.stories.tsx•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/accounts/__stories__/SettingsAccountsCalendars.stories.tsx'FindMa ... annels''FindOneWebhook'§/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/developers/__stories__/webhooks/SettingsDevelopersWebhooksDetail.stories.tsx'FindOneApiKey'¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/developers/__stories__/api-keys/SettingsDevelopersApiKeysDetail.stories.tsx†/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/roles/__stories__/SettingsRoles.stories.tsx'GetOne ... nction'¨/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/pages/settings/serverless-functions/__stories__/SettingsServerlessFunctionDetail.stories.tsx'IntrospectionQuery'c/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-front/src/testing/graphqlMocks.ts'SearchPeople''SearchCompanies''Search ... nities''FindManyViews''Search ... embers''FindManyViewFields''FindManyCompanies''FindDu ... ompany''FindManyNotes''FindManyTasks''FindMa ... argets''FindMa ... olders''FindManyFavorites''FindMa ... nities''FindMa ... embers''GetOne ... ection''GetMan ... Tables''FindManyWorkflows''FindOneWorkflow''FindOneWorkflowRun''FindMa ... rsions'queryY/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/scripts/utils.ts`SELECT ... e = $1`\/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/scripts/setup-db.ts{\n    q ... N',\n  }}/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/clickHouse/migrations/run-migrations.tsv/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/clickHouse/clickHouse.service.ts`ALTER  ... ::text`­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/commands/upgrade-version-command/0-51/0-51-update-workflow-trigger-type-enum.command.ts`ALTER  ... EFAULT``DROP T ... _enum"``CREATE ... HOOK')``ALTER  ... _enum"``SELECT ... T NULL`«/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/commands/upgrade-version-command/0-43/0-43-migrate-rich-text-content-patch.command.ts`UPDATE ... d = $3`'SELECT ... id ASC'£/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/commands/upgrade-version-command/0-53/0-53-copy-typeorm-migrations.command.ts'SELECT ... ations''INSERT ... 1, $2)'`CREATE ... "id"))`›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1708535112230-addBillingCoreTables.ts`ALTER  ... ACTION``ALTER  ... 1954d"``ALTER  ... 6eeab"``DROP T ... ption"``DROP T ... nItem"``\n      ...       `¤/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/commands/upgrade-version-command/0-54/0-54-created-by-default-value.command.ts`ALTER  ... arying`§/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1710926613773-addIntervalToBillingSubscription.ts`ALTER  ... E text``CREATE ... year')``ALTER  ... T NULL`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1709233666080-updateBillingCoreTables.ts`ALTER  ... erval"``ALTER  ... emId")``ALTER  ... ctId")``ALTER  ...  'UTC'``ALTER  ... nique"``ALTER  ... temId"`¡/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1732098580545-addBillingEntitlementTable.ts`ALTER  ... ESTAMP``ALTER  ... 41982"``DROP T ... ement"`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1733753649142-removeBillingFKWithCore.ts`ALTER  ... 0897d"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1709914564361-updateBillingSubscription.ts`ALTER  ... e1954"``ALTER  ... ULT ''`§/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1737127856478-addNonNullableProductDescription.ts`ALTER  ... 8d20a"``CREATE ... paid')``ALTER  ...  false`È/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1743577268972-addHasReachedCurrentPeriodCapColumnInBillingSubscriptionItemTable.ts`ALTER  ... 62356"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1739981257356-addOnUpdateInEntitlements.ts`ALTER  ... ASCADE``ALTER  ... erId")``ALTER  ... ceId")``ALTER  ... odCap"``ALTER  ... plete'`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1702479005171-addSubscriptionStatusOnWorkspace.ts`ALTER  ... 4448e"`¨/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1700661180856-addCascadeDeleteOnRefreshTokenUser.ts`ALTER  ... 88908"`¬/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1700663611659-addWorkspaceDeleteCascadeSetNullInUser.ts`ALTER  ... tatus"`¤/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1734450749954-addConstraintsOnBillingTables.ts`ALTER  ... ntity"``ALTER  ... umeric`•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1700324860820-setupCoreTables.ts`CREATE ... _due')`Ÿ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1706613419989-addDefaultAvatarUrlToUser.ts`ALTER  ... arUrl"``ALTER  ... 235a7"`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1700654387203-addAllowImpersonationToWorkspace.ts`DROP I ... space"``ALTER  ... 78526"``ALTER  ... 299de"``ALTER  ... T true``DROP T ... "user"`›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1704825571702-addPasswordResetToken.ts`ALTER  ... ation"``DROP T ... space"``CREATE ...      )`—/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1707778127558-addUserWorkspaces.ts`\n      ... N\n    `™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1709314035408-updateUserWorkspace.ts`DROP T ... Token"`•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1701194529853-addFeatureFlags.ts`ALTER  ... resAt"``ALTER  ... Token"``ALTER  ... df221"``ALTER  ... a9bd6"``ALTER  ... 6e72b"``ALTER  ... _fkey"`ª/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1709680520888-updateUserWorkspaceColumnConstraints.ts`DROP T ... eFlag"`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1715593226719-updateInconsistentUserConstraint.tsª/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1719327438923-useEnumForSubscriptionStatusInterval.ts`CREATE ... s NULL`ª/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1717688588972-addKeyValuePairTableUniqueContraints.ts`DROP I ... nique"`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1711624086253-updateRefreshTokenTable.ts`ALTER  ... " uuid`œ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1717751631669-addPostgresCredentials.tsš/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1717425967770-addKeyValuePairTable.ts`ALTER  ... TOKEN'``ALTER  ... " text``ALTER  ... 1daa2"``ALTER  ... f5d22"`˜/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1711633823798-useTimestampWithTZ.ts`ALTER  ... ae71a"``DROP T ... ePair"``ALTER  ... 29136"``DROP T ... tials"``ALTER  ... 57772"``ALTER  ... value"``ALTER  ... "type"``ALTER  ... aceId"``CREATE ... _VAR')`™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1721139150487-addKeyValuePairType.ts™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1711557405330-addMissingMigration.ts /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/billing/1733397937967-addNewBillingStripeTables.ts`ALTER  ... E ZONE`¯/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1719494707738-removeSubscriptionStatusFromCoreWorkspace.ts`ALTER  ... R_VAR'``ALTER  ...  now()``ALTER  ...  NULL;``CREATE ... TIVE')`™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1722256203539-addActivationStatus.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1721738579379-DeletePasswordResetToken.ts`ALTER  ... CTIVE'``CREATE ... HOUR')``ALTER  ... c48b0"``ALTER  ... 791f8"``ALTER  ... cated"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1721656106498-migrateKeyValueTypeToJsonb.ts`ALTER  ...  jsonb``CREATE ... FIED')``CREATE ... RING')``ALTER  ... tedAt"``CREATE ... ERED')``CREATE ... LUME')``CREATE ... NSED')``ALTER  ... edAt")` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1726849473832-addUniqueConstraintOnUsers.ts`ALTER  ... EMAIL"``ALTER  ... T '{}'``ALTER  ...  'USD'`µ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1728314605995-add_typeormGeneratedColumnsAndMaterializedViews.ts`DROP T ... views"``ALTER  ... r NULL`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1730137590546-addSubdomainToWorkspace.ts­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1728986317196-addIsPublicInviteLinkEnabledOnWorkspace.ts`UPDATE ... = "id"``CREATE ... OICE')``ALTER  ... CALLY'``CREATE ... omain)``ALTER  ... LT '1'`¶/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1724173430043-introduceMetadataVersionAndDatasourceOnWorkspace.ts`ALTER  ... abled"``ALTER  ... omain"``ALTER  ... 372e1"``ALTER  ... 26fca"`¯/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1722256203541-updateActivationStatusEnumPendingCreation.ts`ALTER  ... chema"``ALTER  ... alEnd"``ALTER  ... seUrl"``ALTER  ... Start"``ALTER  ... rsion"``\n      ... ;\n    `¥/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1727181198403-addWorkspaceSSOIdentityProvider.ts'ALTER  ... T NULL'“/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1724056827317-addInvitation.ts`ALTER  ...  NULL)``\n      ... )\n    ``ALTER  ... TNULL)``ALTER  ... dedAt"``ALTER  ... ethod"`'ALTER  ...  jsonb'`ALTER  ... tails"``ALTER  ... icTax"`'CREATE ... KEN\';'`ALTER  ... ledAt"``ALTER  ... celAt"``ALTER  ... adata"``ALTER  ... odEnd"``ALTER  ... rency"``ALTER  ... holds"``ALTER  ... ionId"`¥/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1722256203540-updateActivationStatusEnum copy.ts`DROP I ... space;`'DELETE ... S NULL'`DROP T ... Price"`'ALTER  ... ation"'`ALTER  ... main")`£/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1734355945585-add-unique-index-on-subdomain.ts¨/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1730298416367-addAuthProvidersColumnsToWorkspace.ts¢/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1733408604468-fixUserEmailUniqueConstraint.ts`ALTER  ... 351b8"``DROP T ... oduct"``CREATE ... S NULL``DROP T ... Meter"`'ALTER  ... ntext"'`DROP I ... EMAIL"``ALTER  ... ified"`Ÿ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1736050161854-renameEmailVerifiedColumn.ts`DROP T ... tomer"`¡/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1734544295083-remove-default-workspace-id.ts¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1739178177820-rename-hostname-to-custom-domain.ts­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1740415309924-addAccessToFullAdminAndWorkspaceVersion.ts`ALTER  ... b39cd"``ALTER  ... cebf0"``ALTER  ... Panel"``ALTER  ... T 'en'`•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1739022118023-addLocaleToUser.tsµ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1737630672873-workspace-entity-default-microsoft-auth-enabled.ts`ALTER  ... tname"`—/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1737033794408-two-factor-method.ts`ALTER  ... ocale"``ALTER  ... nName"`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1737996712702-remove-domainName-from-workspace.tsŸ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1740390801418-addDefaultRoleToWorkspace.ts`ALTER  ... m_old"`Ÿ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1736861823893-updateWorkspaceStatusEnum.ts`ALTER  ... 0a658"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1740048555744-add-approved-access-domain.ts`ALTER  ... oleId"``CREATE ... NDED')``DROP T ... ethod"``ALTER  ... 361fc"``DROP T ... omain"`Ÿ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1737997028359-add-hostname-to-workspace.ts`DROP T ... m_old"``ALTER  ... name")`¡/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1739203087254-add-is-custom-domain-enable.ts`CREATE ... TION')`œ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1742998832316-addWorkspaceConstraint.ts`ALTER  ... _role"`³/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1747401483135-addDefaultAvatarUrlColumnInUserWorkspaceTable.ts¥/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1700565712112-addIdentifierFieldToObjectMetadata.ts`ALTER  ... ataId"``ALTER  ... 1071c"`¹/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1747062634513-addCascadeDeleteOnFieldMetadataRelationTargetObject.ts`ALTER  ... tions"`‘/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1700663879152-addEnumOptions.ts`SELECT ... data')`œ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1743085000788-transferMetadataToCore.ts`SELECT ... tions'``ALTER  ...  array``SELECT ...      )``ALTER  ... 4b824"`£/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1700661538754-addCascadeDeleteOnRelationObject.ts`ALTER  ... df44d"``ALTER  ... enums"``ALTER  ... "core"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1743085000787-updateKeyValuePairTypeEnum.ts›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1700650554672-addWorkspaceCacheVersion.ts`DROP T ... rsion"``UPDATE ... R_VAR'``CREATE ... NULL')`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1708449210922-addOnDeleteActionToRelationMetadata.ts›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/core/migrations/common/1733318043626-sso-missing-migration.ts`ALTER  ... _NULL'`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1709894431938-addStandardId.ts`UPDATE ... M_VAR'``ALTER  ... ction"``ALTER  ... mnMap"`–/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1711459912762-dropTargetColumnMap.ts`CREATE ... ABLE')`—/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1711374137222-addRemoteServerTable.ts`DROP I ... index"``ALTER  ... IABLE'``DROP T ... erver"``ALTER  ... _OIDC"``ALTER  ... _SAML"``UPDATE ... IABLE'``ALTER  ... ardId"``CREATE ... rror')``ALTER  ... ctive'``CREATE ... SAML')`–/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1700140427984-setupMetadataTables.ts`ALTER  ... 'OIDC'``CREATE ... gres')`“/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1711466822763-addIsRemoteField.ts¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1714382420165-addSchemaAndAvailableTablesToServer.ts`ALTER  ... ables"``ALTER  ... 405b2"``ALTER  ... dee26"``ALTER  ... 95c3b"`”/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1713270565699-createRemoteTable.ts`ALTER  ... 5e7d6"`“/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1712923480448-addIsAuditLogged.ts`ALTER  ... 8df93"``ALTER  ... emote"``ALTER  ... 3f06a"``DROP T ... Table"``DROP T ... ation"``DROP T ... ource"``DROP T ... adata"``ALTER  ... ogged"`£/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1713793656356-addSettingsColumnToFieldMetadata.ts˜/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1716310822694-removeAvailableTables.ts`ALTER  ... rType"``ALTER  ... tings"``ALTER  ... num)))`˜/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1718985664968-addIndexMetadataTable.ts`ALTER  ... ULL)))`—/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1716890009820-addRemoteServerLabel.ts`CREATE ... ain") ``CREATE ... :text)``ALTER  ... ::uuid`•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1721057142509-fixIdentifierTypes.ts˜/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1724173061204-deprecateCacheVersion.ts`ALTER  ... oolean`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1723038077987-addSoftDelete.ts`ALTER  ... label"``ALTER  ... table"` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1720524654925-addDateColumnsToIndexMetadata.ts`ALTER  ... lPath"`›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1724171584314-updateServerlessFunction.ts•/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1711619086385-useTimestampWithTZ.ts`CREATE ... EADY')` /Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1721210534680-createServerlessFunctionTable.ts`DROP T ... ction"``ALTER  ... eHash"`§/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1726240847733-removeServerlessSourceCodeHashColumn.ts`ALTER  ... s18.x'`§/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1721309629608-addRuntimeColumnToServerlessFunction.ts`ALTER  ... nteger`ª/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1724946099627-addServerlessFunctionLayerVersionColumn.ts`CREATE ... 'GIN')`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1725893697807-addIndexType.ts£/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1727699709905-addIsCustomColumnToIndexMetadata.ts`ALTER  ... ntime"`«/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1724423248330-removeServerlessFunctionUniqueConstraint.ts`ALTER  ... ption"``\n      ... "\n    `/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1726757368825-addIsUniqueToIndexMetadata.ts¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1726486735275-removeObjectMetadataIsSoftDeletable.tsš/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1726766871572-addWhereToIndexMetadata.ts`ALTER  ... lause"`–/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1728563893694-addIsUniqueToFields.ts›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1728579416430-addIsLabelSyncedWithName.ts`ALTER  ... hName"`›/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1730803174864-addInputSchemaToFunction.tsª/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1733153195498-addIsLabelSyncedWithNameToFieldMetadata.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1733318004066-missing-shortcut-migration.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1726757368824-migrationDebt.ts`ALTER  ... T '[]'`¢/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1729162426186-updateServerlessFunctionColumns.ts`CREATE ... eId") ``ALTER  ... taId")`Ÿ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1728999374151-addConstraintOnIndexMetadata.ts`ALTER  ... sions"`–/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1729676165199-add-object-shortcut.ts`ALTER  ...  '300'`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1737047131108-addTimeoutSecondsColumnToServerless.ts­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1738853620654-addDuplicateCriteriaColumnInObjectMetadata.ts`CREATE ... ceId")``ALTER  ... teria"``ALTER  ... = 900)``ALTER  ... rtcut"``ALTER  ... 03247"``ALTER  ... conds"`’/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1739795699972-updateRoleTable.tsš/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1742736630054-standardObjectOverwrite.ts­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1740478150675-addIsSearchableColumnInObjectMetadataTable.ts`CREATE ... aId") `±/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1739203246456-addIndexesOnFieldMetadataAndIndexFieldMetadata.ts`ALTER  ... cords"``ALTER  ... hable"`™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1738248281689-createPermissionsTable.ts`ALTER  ... rides"``ALTER  ... tting"`®/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1743605310126-removeCanUpdateSettingFromSettingPermission.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1741859116265-addIconToRole.tsŸ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1738233783889-addNewSyncStatusToServerless.ts`DROP I ... aceId"`¤/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1742316060157-addIndexOnRoleLabelAndWorkspaceId.ts`ALTER  ... "icon"``ALTER  ... dc7d4"``DROP I ... ataId"``ALTER  ... READY'``DROP T ... eRole"``DROP T ... "role"`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1742232505943-generatePermissionsV2Tables.ts`DROP T ... sions"`™/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1742488572894-renamePermissionTables.ts`ALTER  ... 7ed4a"``ALTER  ... 15074"`±/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/database/typeorm/metadata/migrations/1737561084251-addRelationTargetFieldAndObjectToFieldMetadata.ts`ALTER  ... 86ee1"``ALTER  ... cff78"``ALTER  ... 37833"``ALTER  ... a8a83"``ALTER  ... 04256"``DROP T ... ssion"`'SELECT version()'…/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/core-modules/health/indicators/database.health.ts'SELECT ... tivity''SHOW m ... ctions''SELECT ... uptime''SELECT ... s size''SELECT ... base()'/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/metadata-modules/object-metadata/object-metadata.service.ts`CREATE ... Name}"`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/metadata-modules/remote-server/remote-table/distant-table/distant-table.service.ts`IMPORT ... Name}"``SELECT ... Name}'``DROP S ... ASCADE``SELECT ... ame}')`©/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/metadata-modules/remote-server/remote-table/utils/get-remote-table-local-name.util.ts¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/metadata-modules/remote-server/remote-table/foreign-table/foreign-table.service.tsforeign ... erQuery‹/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/metadata-modules/remote-server/remote-server.service.tsuserMappingQuery`SELECT ... ompany`/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/demo-objects-prefill-data/seed-person-with-demo-data.ts`SELECT ... MIT 50`¢/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/demo-objects-prefill-data/seed-opportunity-with-demo-data.tsˆ/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-datasource/workspace-datasource.service.ts`SELECT ... ta)}')`¡/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/workspace-health/services/object-metadata-health.service.ts/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/workspace-health/services/database-structure.service.ts`\n      ... }\n    `­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/workspace-migration-runner/services/workspace-migration-type.service.ts­/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/workspace-migration-runner/services/workspace-migration-enum.service.ts`SELECT ... Name}"``DROP T ... Name}"``SELECT ... e = $3``SET LO ... aName}`¦/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/src/engine/workspace-manager/workspace-migration-runner/workspace-migration-runner.service.ts`DROP F ... name}"``\n      ... 3\n    ``CREATE ... ions})``ALTER  ... uery};`¢/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/test/integration/audit/suites/clickHouse-workspace-event-registration.integration-spec.ts`DELETE ... ular}"`u/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-server/test/integration/utils/delete-all-records.ts|/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-website/src/github/contributors/fetch-assignable-users.tsxv/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-website/src/github/contributors/fetch-issues-prs.tsxw/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-website/src/github/contributors/search-issues-prs.tsx‡/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-website/src/github/github-releases/fetch-and-save-github-releases.tsx/Users/soro/Documents/projects/rough-work/twenty/packages/twenty-website/src/github/github-stars/fetch-and-save-github-stars.tsxåm#selectœ ei sé€ø =~èì€ø =~üø³È,?~Õ÷†ø±Å<~Ğø†ø±Å=~¾‚‡ø±Å'	'C~û„‡ø±Å2	2?~³Ñ‹ø±ÑH~ó˜øåú##*~œø£ú222~çŞø·Ë,~­âø·Ë77,~°²‘ø†—//&~„½‘ø†—MM&~çÍ™øË	Ô	¬¬~®Øœøä
+ù
+6 9~©İœøä
+ò: =~İ¤¢øùA~ÚÁ¢ø™­R/RI~œÇ¢øù­Wa~°ß©øä
+¸„D‡~ò‚ÃøùÖˆ)“~ÏÍëøä
+‹y‹~×Áòø¢KK1~Á«öø±Ş>~¨´öø±Õ@~Æ¸öø±Õ,,>~ï¿öø±×##D~Åöø±×//>~’ëöøÓä!!&~Üìöøëä&&%~»ğöøûä--.~’ÿöø±>~¢…÷ø±”>~˜‰÷ø±—>~À‰÷ø±›>~ı‰÷ø±—((=~È—÷ø±š>~ÛŸ÷ø±>~ˆ øø$$1~â¢øø° ##1~³¯øøÆ!HH/~°²øøÆ!° GG0~ÏùøÚ!ë!&~èîùø“#£#%~«Õúø±Ê$$$7~ş„ûøÑ%å%0~‡¹şø'£'00&~¼Äşø±£'QQ:~£Çşø±£'YYA~‹Òşø±£'xx;~ıÒşø±£'€€=~àÕşø†(£'‡‡ ~”Ûşø•(£'™™#~¤áşø§(£'««'~‚æşøË	£'ºº~İúşø»(£'øø!~ï‹ÿøË(£'¢¢*~†ÿøß(£'ĞĞ&~ñ©ÿøô(£'ææ%~¥¸ÿøˆ)£'––(~åÇÿøÓ£'ÆÆ"~ëÊÿøœ)£'ØØ!~ªÔÿø¬)£'òò!~èÜÿø¼)£'ŒŒ'~íãÿøĞ)£'  +~Šìÿøä)£'²²%~®õÿøø)£'ÄÄ)~¤ùÿøŒ*£'ÓÓ,~‹€€ù *£'‡‡,~€ù´*£''~ú„€ùë£'––~š†€ùÈ*£'ŸŸ%~Æ†€ùÜ*£'¤¤#~œ‡€ùî*£'««&~¯ˆ€ùƒ+£'°°,~¦‰€ù±£'··3~¤ƒù—++15~Ï¤ƒùö+Š,RR>~ü—„ùæ,ü,8(<~¶ó„ùä
+ù-µ,¹~İ†ùï.ƒ/OPZ~’‚†ù±0ƒ/UV6~Ï„†ùÅ0ƒ/[[M~²††ùÙ0ƒ/__©~è††ùí0ƒ/deÂ~Ÿ¡†ù1•1í	í·~º§†ùÁ2•1üüÔ~®À†ùÕ2é2*	*D~È†ù4é28	83~ÊÌ†ù¡4é2CCV~­î†ùµ4É4Ô~Õî†ùµ4É4°~†ğ†ùå5É4Ş~§ğ†ùå5É4Æ~ˆô†ùù5É4a~îõ†ù6É4e~ˆö†ù¡6É4E~¢÷†ùµ6É4I~µ‡ùÉ6Ş6> C~ƒ‡ùÉ6Ş6NS~†Š‡ùƒ8—8
+
+Q~©Š‡ù¿9—8R~ÇŠ‡ùÓ9—8f~‚‹‡ùí0—8µ~Ò‡ù¿9—8R~‰‡ùç9û9
+
+n~‡ùš;—8G~±‡ù®;û9À~¿‡ùÅ0—8<~È‘‡ùÂ;û9®~€’‡ùÖ;û9~ø’‡ùê;û9{~«”‡ùê;û9„~Æ”‡ùş;û9[~å•‡ùµ4’<
+
+~–‡ùå5’<Å~½–‡ù´=û9""\~ö–‡ùÈ=’<`~”—‡ùÜ=’<D~šœ‡ùÈ=ğ=
+
+`~®‡ùù5ğ=a~Ï‡ù?ğ=]~ÙŸ‡ùå5ğ=Â~‰ ‡ùå5ğ=Æ~® ‡ùù5£?
+
+a~³ ‡ùå5ğ=Å~Ì¡‡ùÄ@£?a~Ó¡‡ùØ@ì@
+
+U~Ô£‡ù”B£?a~ç£‡ùç9ì@S~ó£‡ùå5£?Æ~ˆ¤‡ùÖ;£?Œ~–¤‡ù±0ì@S~«¤‡ùç9ì@T~Ÿ¥‡ù¿9£?P~Ã¥‡ù¨B£?ª~Í¥‡ù¼BĞBt~ç¥‡ùí0£?­~ş¥‡ùç9£?""S~¹¦‡ùç9£?((T~Ò¦‡ù™D­D
+
+`~Ø¦‡ùù5£?++a~ú¦‡ùÎE­DÜ~’§‡ùâE£?..|~§§‡ùöE£?11w~Ë§‡ùå5£?44Æ~à§‡ù¿9£?77P~Å¨‡ù™D­D`~ù¨‡ùÅ0£?:::~…©‡ùŠFĞB]~é©‡ùå5­DŞ~…«‡ùƒ8£?==]~í¬‡ù´=£?@@X~’²‡ùF²F
+
+o~â²‡ùÙGíG
+
+Z~‡³‡ùå5íGµ~œ´‡ù–IªI
+
+R~Ê´‡ùÙGíGZ~Ñ´‡ùå5ªI¿~…µ‡ù×J²FG~áµ‡ùê;ëJ
+
+„~ìµ‡ùå5íG·~‚¶‡ùê;ëJj~¢¶‡ù®;ëJˆ~Â¶‡ùLëJK~Ğ¶‡ù–IªIR~¿·‡ù¤LëJK~ä·‡ùµ4¸L§~˜¸‡ùöEëJs~·¸‡ùÎMëJ¦~Å¸‡ùå5ªIÀ~‡¹‡ùå5ëJŞ~˜¹‡ùƒ8âM
+
+J~Ò¹‡ùµ4¸L£~ß¹‡ù‚OâM@~»‡ù–OªO
+
+R~¶»‡ù™DëJ%%`~Ú»‡ùÑPëJ((A~ö»‡ù?ëJ++]~‚¼‡ùµ4¸Lõ~–¼‡ùLëJ..K~¥¼‡ùå5¸L·~¶¼‡ùç9ëJ11T~Ï¼‡ùå5¸LÀ~á¼‡ùåPëJ44e~‚½‡ùâEëJ77”~—½‡ùùPªOZ~ª½‡ù®;ëJ::À~´¾‡ùQªO]~İ¾‡ù–O¸LR~í¾‡ùå5ªOÀ~ü¾‡ùùP¸LZ~®À‡ù¡Q¸L6~ÈÀ‡ùå5ªO·~ŠÁ‡ùÙGªOZ~¡Á‡ù–IªOR~¶Á‡ùƒ8µQL~ÇÁ‡ùÑRªO""G~ÚÁ‡ù´=µQM~ïÁ‡ùå5ªO%%·~«Â‡ùåR¸L  ;~¸Â‡ùùRS~ºÂ‡ù¥T»T~ĞÂ‡ùÕU¸L!!>~ÚÂ‡ù¥T»T~‰Ã‡ùµ4éUŒ~¾Ã‡ùÿVµQK~ßÃ‡ù“WµQB~ğÃ‡ùå5ªO((À~€Ä‡ù§W»T[~œÅ‡ù»W»T[~ìÅ‡ùå5éU¾~²Æ‡ùÏWéUY~âÆ‡ùãW÷WV~òÆ‡ùãW÷W[~°Ç‡ù§W÷W[~ÍÇ‡ù»W÷W[~‘È‡ù¢YéU=~ÑÈ‡ùÉ6÷W!	~åÈ‡ùÉ6÷W#(	~êÓ‡ù–I¶Y
+
+R~×Ô‡ù¨BİZ
+
+¬~ƒÕ‡ù¿9¶YR~¥Õ‡ùå5¶Y¿~åÕ‡ù–I¶YR~€Ö‡ùƒ8¶Y_~œÖ‡ù±0İZU~¦Ö‡ùå5¶Y¿~¼Ö‡ùˆ\œ\
+
+~ÀÖ‡ùí0İZ¿~äÖ‡ùç9İZU~åÖ‡ùˆ\œ\~…×‡ùí0İZ~íØ‡ùÇ]œ\D~‹Ù‡ùÇ]œ\D~°Ù‡ù¿9İZR~ÎÙ‡ùÅ0İZ<~ïÜ‡ù“WÛ]
+
+>~İ‡ùù^Û]<~Àİ‡ùµ4_¬~Ğİ‡ùµ4ª`Ø~Şİ‡ùå5_Æ~øİ‡ùå5ª`µ~€Ş‡ùÅaÛ]V~¡Ş‡ùå5ª`¿~µŞ‡ùÙaÛ]L~ÙŞ‡ùå5Û]»~éŞ‡ùíaª`Z~©ß‡ùb_a~Ôà‡ùÖ;•b„~áà‡ùÙGÛ]V~éà‡ù®cª`Z~ıà‡ùÖ;•b„~Šá‡ùå5Û]±~¦á‡ùÂcª`>~­á‡ùÖ;•b‚~âá‡ùå5Û]  ±~…â‡ùÖcÛ]##V~¢â‡ùêc_E~±â‡ùşcÛ]&&V~İâ‡ù’dÛ]))9~—ã‡ùÖ;•b}~§ã‡ù¦dÛ]++N~ºã‡ùÖ;•b¡~×ã‡ùºdÛ]--?~âã‡ùÖ;•b†~øã‡ù“WÛ]00>~†ä‡ùÖ;•b†~åä‡ùÎdâde~ûä‡ùÖ;•b†~—å‡ù»Wüe[~½å‡ùµ4–g
+
+·~£æ‡ù§Wüe[~¦æ‡ù´=•b$$P~³æ‡ù·hüe~»æ‡ù´=•b''P~Ïæ‡ù×JËh
+
+G~Ùæ‡ùûiâdp~àæ‡ùÅ0Ëh<~äæ‡ùjüeU~ğæ‡ù´=•b++N~—ç‡ù£jüeQ~œç‡ù¨BËh¬~ªç‡ùFËhˆ~Åç‡ù·hüe~Úç‡ù¦dâd<~Şç‡ù·jËjZ~æç‡ù“WåkB~çç‡ù´=•b..I~ıç‡ù´=•b11[~ƒè‡ùÅ0âdG~“è‡ù´=•b44R~­è‡ù´=•b77R~½è‡ù´=•b::R~Íè‡ùÿVåkK~çè‡ù„mËj‚~ùè‡ùjüeU~šé‡ù£jüeQ~©é‡ù×JËjE~¿é‡ùÅ0Ëj:~×é‡ùƒ8åkL~äé‡ù·j–gS~»ê‡ù·hüe##~æê‡ù–Iüe''R~¬ë‡ù´=åkM~Àë‡ùç9üe**P~áë‡ùöEüe--~~òë‡ù˜m–gU~Œì‡ùå5üe00¶~œì‡ùµ4–g³~·ì‡ùå5üe33À~Ëì‡ùå5üe66¿~óì‡ù–Iüe<<R~‡í‡ù¬müe??[~œí‡ùÀmüeBB[~×í‡ùÔmèm
+
+X~‚î‡ù‰oèm;~Çî‡ù’dèm=~€ï‡ùµ4–gÎ~°ï‡ùê;üeEE^~Øï‡ùo–gk~‚ğ‡ù’dèmX~èğ‡ù±o–gT~°ñ‡ùç9üeHHQ~Ãñ‡ùå5üeKK¿~×ñ‡ùÅoüeNNB~úñ‡ùÙo–gZ~’ó‡ùío–g""W~şó‡ùp–g%%W~Ãõ‡ùÓ9–g((_~Ëõ‡ù´=üeQQD~ğõ‡ùÅoüeTTB~‹ö‡ùjüeWW[~Ûö‡ùµ4–g++¦~úö‡ùƒ8–g..a~™÷‡ù•p©p
+
+^~Ô÷‡ùÊq©pA~è÷‡ùŞq–g11_~Šø‡ù‰o–g44R~ ø‡ù¼B–g77g~Ğø‡ùòq–g::h~Öø‡ùÅoüeZZB~´ú‡ùÉ6†r	~¹ú‡ùj–g==w~Öú‡ùjüe]][~ÿú‡ùå5üe``¶~–û‡ùj–g@@y~®û‡ùå5üeccÀ~µû‡ùŞq–gCC[~âû‡ù·h–gFFX~€ü‡ù·h–gIIZ~¹ü‡ù¼s†rM~‹ı‡ù‰o–gLLI~¶ı‡ù‰o–gOOP~‚ş‡ùĞsäs
+
+C~“ş‡ùQ‚u
+
+d~£ş‡ù°väsN~¯ş‡ùÄv–gRRv~¶ş‡ùç9äsL~Çş‡ùØv–gUU¢~Êş‡ùìväs^~óş‡ù·h–gXXW~¬ÿ‡ù€w”w
+
+Y~Äÿ‡ùËx‚uO~Òÿ‡ùØ@”w^~íÿ‡ù·h–g[[Z~†€ˆùßxäs>~€ˆù·h–g^^X~¯€ˆùå5–gbbÂ~À€ˆùå5–gffÕ~Å€ˆùØ@”wa~×€ˆùå5–giiÑ~ˆùóx–gooZ~Âˆù‡y–grrZ~Ïˆùï.›yx~âˆù?–guu]~îˆùËz”wC~÷ˆù±0›yS~‚ˆùßz–gxxG~—‚ˆùÅ0›y:~š‚ˆùóz”w@~µ‚ˆù‡{–g{{I~À‚ˆù·j›y‚~Â‚ˆù›{”wD~Õ‚ˆù¯{Å{~é‚ˆùí0›yÀ~ü‚ˆù¯{Å{~ı‚ˆùë|ÿ|G~¶ƒˆù“~ÿ|¢~éƒˆù¯{Å{!&~ƒ„ˆù§~Å{(,~‰„ˆù½~ÿ|¥~‘„ˆù„m›y##]~Ÿ„ˆùÑ~–g~~F~¨„ˆùå~–gO~¬„ˆù§~Å{-1~Â„ˆùÅ0–g„„D~Ï„ˆùù~ÿ|M~å„ˆù–g‡‡R~†ˆù¡–gŠŠK~“†ˆùµÿ|©~¬†ˆùÉ–gI~½†ˆùİ–gG~ß†ˆùñ–g““G~ÿ†ˆù‡{–g––Q~š‡ˆù…€–g™™O~¹‡ˆù™€–gœœG~à‡ˆù…€–gŸŸP~ı‡ˆù­€–g¢¢T~Âˆˆùï.›y**x~Şˆˆù±0›y//S~íˆˆùñ–g¥¥K~¶‰ˆù¯{Å{58~ŠˆùÁ€–g¨¨W~’Šˆùï.Õ€		x~™ŠˆùÅ0›y44:~ÙŠˆù¯{Å{:<~ôŠˆùûÿ|E~ÿŠˆù¯{Å{>@~¤‹ˆù‚ÿ|  <~Ã‹ˆù£‚–gªª>~Ì‹ˆù·j›y88n~Ö‹ˆù±0Õ€S~é‹ˆùÅ0–g««K~ô‹ˆùí0›y==À~÷‹ˆùÅ0Õ€:~’Œˆù·jÕ€n~§Œˆùí0Õ€À~äŒˆù„mÕ€!!]~úŒˆù·‚ÿ|$$V~†ˆùÅ0–g¬¬L~ªˆùÅ0–g­­L~´ˆùï.Õ€((x~Éˆù±0Õ€--S~áˆùÅ0–g¯¯:~æˆùÅ0Õ€22:~ÿˆù·jÕ€66Z~‹ˆù„m›yBB]~ˆùË‚ß‚
+
+k~Àˆù¼Bƒ„
+
+Y~İˆùQƒ„U~åˆùÊq¬…
+
+A~øˆùQƒ„W~¬ˆùËxƒ„K~ÄˆùËxƒ„H~áˆùËxƒ„J~ŠˆùÅ0–g±±G~ˆù·‚ÿ|((Z~œˆùí0Õ€;;À~ªˆùÅ0–g²²N~¾ˆù„mÕ€@@]~ÈˆùÏ†ß‚W~Ïˆùã†–g³³@~Ùˆù÷†¬…`~‰‘ˆù‹‡–g´´>~©‘ˆùŸ‡ÿ|,,9~®‘ˆù³‡¬…?~’ˆù•p¬…^~¤’ˆùÅ0–g¶¶<~´’ˆùë|ÿ|00F~½’ˆùÇ‡Û‡
+
+T~É’ˆùÅ0–g¸¸I~ï’ˆùûˆ–g¹¹A~Ù“ˆùÇ‡Û‡T~”ˆù–I‰
+
+R~À”ˆùºd‰B~‡•ˆùç9‰H~ç•ˆùå5‰¿~¿›ˆùßx±Š
+
+Q~Ä›ˆù¼BØ‹
+
+^~×›ˆùƒ8Ø‹F~‡œˆù†±Š}~–œˆù›{Ø‹<~ˆùš±Š}~¶ˆù®Ø‹G~âˆùÂÖV~úˆùQì
+
+]~·ˆù¼Bì^~½ˆù¢±ŠQ~ë¡ˆùµ4¶Ş~ñ¡ˆùÎ‘ÖL~Ê£ˆùå5¶Ê~õ£ˆùâ‘ö‘
+
+?~Ï¤ˆùƒ8ö‘I~ª¥ˆùù^“
+
+?~±¥ˆù½”Ñ”
+
+k~ã¥ˆùñ•¶]~å¥ˆùµ4…–
+
+×~ò¥ˆù¦—“B~…¦ˆùå5…–Ç~Œ¦ˆùº—Ñ”~³¦ˆù±0Ñ”S~Ò¦ˆùí0Ñ”¿~ö¦ˆùÎ—¶A~ş¦ˆùâ—…–b~¬§ˆùö—…–F~İ§ˆù„mÑ”]~ë§ˆùƒ8Š˜G~ø§ˆùª™Ñ”>~¨ˆù¾™Š˜j~¨¨ˆù¼BÒ™
+
+a~á¨ˆùËxÒ™J~Î©ˆùšŠ˜W~–«ˆùôšÑ”†~±«ˆù¢Š˜=~¿«ˆù±0Ñ”""S~×«ˆù½”Ñ”%%Ç~€¬ˆù„mÑ”((]~—¬ˆùÅ0Ñ”++:~¥¬ˆù“~ˆ›Ç~­¬ˆùí0Ñ”..k~Ñ®ˆù¥œˆ›b~Á³ˆùƒ8¹œ
+
+S~‰´ˆù‚O¹œI~¢¸ˆùƒ8í
+
+b~º¸ˆùƒ8íb~ì¸ˆù“ŸíX~ğ¸ˆù§Ÿ»Ÿ
+
+e~õ¸ˆùõ ‰¡M~‘¹ˆùå5»ŸØ~ã¹ˆù›¢¯¢L~¥ºˆù§Ÿ»Ÿ[~µºˆù“ŸíX~½ºˆùå5»ŸÚ~Óºˆùõ ‰¡@~„»ˆùÌ£¯¢O~‘»ˆù‰o‰¡>~Ò»ˆùõ ‰¡@~ñ»ˆùà£‰¡C~Ğ¼ˆùô£¯¢	
+~·½ˆùˆ¤œ¤
+
+^~¿ˆùÀ¥œ¤^~¤¿ˆùå5œ¤Ñ~×¿ˆùÔ¥‰¡M~ò¿ˆùå5œ¤Ï~ÆÀˆùè¥¯¢)	)A~¬Áˆù±0ü¥
+
+J~§Âˆùˆ¤œ¤^~«Âˆùµ4§
+
+†~şÂˆùÀ¥œ¤^~™Ãˆùå5œ¤Ó~µÃˆùå5œ¤""Ñ~ÀÃˆùï.ü¥Z~òÄˆù¹¨§G~ĞÅˆùÍ¨ü¥[~ïÆˆùá¨õ¨
+
+l~†ÇˆùºdœªZ~”Çˆù¸«õ¨Œ~ËÇˆùù^Ì«A~ÖÇˆùİ¬ü¥_~æÇˆùñ¬õ¨J~ïÇˆùÅ0ü¥G~üÇˆù…­™­H~€ÈˆùÅ0õ¨?~…Èˆù°®ü¥o~²Èˆùç9™­O~ÌÈˆùµ4Ä®¿~òÈˆùí0ü¥~şÈˆùÑPœªH~˜ÉˆùÜ¯œª<~¤Éˆùù^Ì«@~¿ÉˆùÑRœªX~ÌÉˆùğ¯ü¥##Y~æÉˆùÑRœª\~êÉˆù„°Ä®>~‚Êˆù˜°œªT~’Êˆù±0ü¥))J~¨Êˆù¬°œªT~¬Êˆùï.ü¥--Z~ÍÊˆùÀ°ü¥11[~ÕÊˆùç9œªZ~øÊˆùÀ°ü¥44_~şÊˆùÔ°Ì«C~«ËˆùÔ°Ì«D~ÕËˆùÅ0ü¥77G~áËˆù×Jœª  N~€Ìˆùè°œª##l~Ìˆùü°œª&&’~ÂÌˆùÎdü¥::e~ÖÌˆùí0ü¥>>~æÌˆùûiü¥BBT~ÛÍˆù½”œª))G~óÍˆù±œª,,[~Îˆù±0œª//Z~§Îˆùí0œª22È~Ïˆùµ4¤±ê~¬Ïˆùµ4¤±¯~ÑÏˆùµ4¤±ğ~õÏˆù»²œª55`~öÏˆùÏ²¤±E~ŸĞˆùµ4¤±Î~àĞˆùª™œª77B~áÑˆù½”œª99k~ƒÒˆù·jœª<<‚~œÒˆù±0œª??S~²Òˆùí0œªBB¿~´Òˆùµ4¤±Û~ĞÒˆù„mœªEE]~ŞÒˆùå5¤±Ó~şÒˆùå5¤±Ñ~ÎÓˆù¼Bã²Y~›Ôˆùå5¤±  Ñ~áÔˆùª™œªHH>~”Õˆùå5¤±##Ï~©Õˆùå5¤±&&Ê~ÀÕˆùÙa÷³
+
+;~ÜÕˆù‰o÷³E~ˆÖˆùå5¤±))Ã~¦Öˆùµ÷³G~ÄÖˆùËz÷³>~ÜÖˆù²µ¤±//\~ñÖˆùç9œªKKV~şÖˆùÆµ¤±22[~˜×ˆùç9œªNNX~¬×ˆùÚµ¤±55^~¸×ˆùç9œªQQY~Ã×ˆùµ4îµ¬~İ×ˆùƒ·¤±88^~ß×ˆùå5œªTTÏ~ê×ˆùå5îµÄ~ƒØˆùˆ¤¤±;;^~¥ØˆùÀ¥¤±>>^~ªØˆùQ—·]~³Øˆù«¸œªZZj~»Øˆù¿¸ã²B~ÀØˆùÓ¸îµY~ÕØˆùç9œª]]Z~ÕÙˆùç9œª``Y~òÙˆùç¸îµ=~ùÙˆùç9œªccW~˜Úˆù·jœªff†~ªÚˆùû¸¤±@@D~ÀÚˆù±0œªiiS~ÙÚˆù¹¤±AA<~èÚˆù½”œªllÇ~úÚˆùÅ0¤±BBE~ŒÛˆù„mœªoo]~¤Ûˆù£¹¤±CC@~¾Ûˆù£¹¤±DD?~ÕÛˆù£¹¤±EEB~øÛˆùÅ0œªrr:~”Üˆùí0œªuuk~ŸÜˆù·¹—·G~´Üˆù±œªxxF~•İˆù±0œª{{Z~­İˆù½”œª~~~Æİˆù»²œª`~îŞˆùÅ0œª„„A~•ßˆù‰oË¹
+
+?~ÒßˆùµïºG~àˆù‰oïºE~—àˆùˆ¼Ë¹N~íàˆùí0œª‡‡G~óàˆùÙaË¹K~Œáˆù×JœªŠŠN~¥áˆùÅ0œªC~Äáˆùü°œªr~æáˆùç9œª““[~Øâˆùˆ¼Ë¹N~şâˆùƒ8Ë¹X~œãˆùœ¼Ë¹A~²äˆù°¼œª––ã~Öäˆù°¼œª™™è~”æˆùµ4Ä¼~Éæˆùµ4Ä¼ü~İæˆùİ½œªœœ¡~çˆùİ½œªŸŸš~‚çˆùÙañ½:~ çˆù‰¿œª¢¢c~ºçˆù¿œª¥¥—~×çˆùå5œª¨¨¿~ñçˆù±¿Å¿~şçˆùå5Ä¼Ê~ˆèˆù±¿Å¿~Üèˆùå5Ä¼Í~áèˆù¹¨ÛÀG~ıèˆùôÁˆÂI~£éˆù™Ãñ½=~¹éˆù­ÃˆÂI~Òéˆùå5Ä¼Í~èéˆùï.Å¿~ˆêˆùï.Å¿~”êˆùµ4ÛÀ†~¥ëˆù£¹Ä¼D~Òëˆù£¹Ä¼?~‚ìˆùjÁÃ
+
+j~ìˆùjÁÃj~§ìˆùâÄöÄ
+
+P~ÈìˆùÖ;’Æ‹~Îìˆùƒ8öÄU~áìˆù¨Ç¼Ç
+
+]~ôìˆùµ4¼Ç«~àíˆùİÈ¼ÇD~òíˆùÖ;’Æ‹~îˆùjÁÃo~—îˆùÖ;’Æ~©îˆù›{öÄK~±îˆùjÁÃo~¼îˆùÅ0¼Ç=~»ïˆùç9öÄc~×ïˆùÅoÁÃG~ÚïˆùÖ;’Æ~üïˆùÖ;’Æ…~ŠñˆùÅoÁÃG~£ñˆùÅoÁÃB~ÆñˆùÖ;’Æ…~÷ñˆùÖ;’Æƒ~›òˆùÖ;’Æƒ~·òˆùÖ;’Æ  ‡~İòˆùÖ;’Æ##‡~õóˆùñÈ…É
+
+L~¡ôˆùÅoÁÃ""B~Àôˆùç9…É_~µõˆùÖ;’Æ&&†~ËõˆùÖ;’Æ))†~ãõˆù­ÊÁÊ
+
+m~çõˆùÖ;’Æ,,‰~öˆùéËıË
+
+J~È÷ˆù¨Í¼ÍQ~İ÷ˆùƒ8ÁÊS~ñ÷ˆù¯{¼Í~ªøˆùÖ;’Æ//‰~ìøˆù´=’Æ55W~ùˆùç9ÁÊc~¹ùˆùÉ6ÌÎ		~ÎùˆùğÏÁÊE~êùˆùê;„Ğ
+
+a~ñùˆù°ÑÁÊI~¨úˆù´=’Æ88W~»úˆùöE„Ğ~Äúˆù´=’Æ;;Z~ÖúˆùÄÑ¼Í~âúˆù´=’Æ>>Z~ôúˆù¼BÚÑ
+
+X~ûúˆù´=’ÆAAQ~’ûˆù´=’ÆDDQ~¤ûˆùâÄÁÊP~¼ûˆù­ÃøÒ
+
+I~çûˆù´=’ÆGGO~üˆùôÁøÒI~üˆù´=’ÆJJO~ºüˆù´=’ÆMMS~Îüˆùê;ÚÑA~Üüˆù´=’ÆPPS~ìüˆù›{ıËJ~ğüˆùÅ0¼ÍM~ƒıˆù´=’ÆSSR~ÎıˆùÉ6ÌÎ	~«şˆùÙaŸÔ
+
+F~àşˆù´=’ÆVVR~¦ÿˆù´=’ÆYYU~¿ÿˆù´=’Æ\\U~¡€‰ùºÕŸÔI~ú‰ù¼BÎÕO~¹‚‰ùºÕÎÕI~è…‰ù¼BåÖ
+
+f~†‰ùØåÖO~ú‡‰ù‰o•Ø
+
+T~àˆ‰ù¼B±Ù
+
+e~Ù‰‰ùÑPÜÚ
+
+G~í‰‰ùËz•ØV~ÕŠ‰ùØ±ÙN~íŠ‰ù½”úÛu~‡‹‰ùôšúÛy~™‹‰ù‹İŸİ
+
+c~Ÿ‹‰ù±0úÛX~Á‹‰ùí0úÛÌ~í‹‰ùÂŞÜÚu~¬Œ‰ùÖŞêŞŸ~ƒ‰ùŠàŸİO~•‰ù¸«úÛb~¼‰ùª™úÛC~Ò‰ùç9úÛP~ä‰ùƒ8àL~î‰ùµáÉá
+
+c~ù‰ù‰oğâ
+
+I~‰‰ùê;êŞm~«‰ùäà‡~´‰ù²äğâK~è‰ùç9úÛ  Q~ê‰ùÑPàG~„‰ùÆäÉá™~’‰ùÚäàB~“‰ùá¨úÛ##p~ÿ‰ù±0úÛ&&X~©‘‰ùîäÉá`~Î‘‰ù‚åÉáL~‹’‰ù½”úÛ))Ô~¨’‰ù¸«úÛ,,b~¶’‰ùÅ0úÛ//?~¶”‰ùí0úÛ22u~Ñ—‰ù¼B–å^~î—‰ù¼B–å`~ˆ˜‰ù¼B–åd~˜‰ù¼B–åa~Ø™‰ù‰o©æ
+
+H~ÿ™‰ù‰o©æI~Œš‰ù¼BÄç
+
+]~Ãš‰ùòè†é
+
+a~àš‰ù¸ê–åJ~îš‰ùÌêÄçF~™›‰ùµ4àêÄ~Ò›‰ù¸ê–åM~ù›‰ùòè†é^~ƒœ‰ùúë©æK~³œ‰ùÂŞ†éT~Êœ‰ùì¢ì
+
+M~äœ‰ù¸ê–åI~ıœ‰ùµ4àêÁ~Ÿ‰ùå5àêº~Ò‰ù¸ê–å  G~Ô‰ùôÁ¢ìM~ì‰ùƒ8Ñí>~‚‰ù½”âî
+
+q~’‰ùúë©æJ~“‰ù‚ğ†éD~¦‰ù¨Çâîi~µ‰ùöE–ğ
+
+d~ş‰ù±0âîV~˜Ÿ‰ù»ñÑíJ~ÖŸ‰ùÏñàê_~ûŸ‰ùí0âîÂ~¸ ‰ùãñ†éI~Ò ‰ùãñ†éH~ú ‰ù÷ñâîa~’¡‰ùª™âîA~¿¡‰ù‹òàêC~ã¡‰ùŸòàê6~÷¡‰ùê;–ğE~¶£‰ùµ4³ò
+
+Î~·£‰ù¨Çâîa~ò¤‰ù±0âî""V~Ù¦‰ùµ4³òŞ~×§‰ùÒóæóE~ó¨‰ù½”âî%%Ê~“©‰ù÷ñâî((a~Ÿ©‰ùå5³òº~¹©‰ùå5³òÎ~Í©‰ùÒóæóC~ß©‰ùå5³ò¼~ï©‰ùµ4æó
+
+Ì~´ª‰ù€õ³òa~Õª‰ùµ4æóÚ~ßª‰ù”õ³ò_~„«‰ùù^¨õ
+
+S~«‰ùÖŞ¨õƒ~º«‰ùù^¨õT~À«‰ùÚö³ò""_~Ø«‰ùå5æó¹~æ«‰ùòè¨õz~„¬‰ùòè¨õx~¡¬‰ùå5¨õØ~ô¬‰ùå5¨õÚ~‹­‰ùå5æóÍ~£­‰ùÒó³ò$$E~¸­‰ùå5æóº~»­‰ù§Ÿ¨õ""[~É­‰ùÒó³ò%%C~â­‰ùîö¨õ%%[~ö­‰ùÅ0âî++=~®‰ùãñ¨õ((@~œ®‰ù‚÷æó_~®®‰ùãñ¨õ++A~Æ®‰ù“Ÿ¨õ..W~Û®‰ùîö¨õ11[~ƒ¯‰ù“Ÿ¨õ44V~×¯‰ù–÷æó^~ô¯‰ùí0âî..q~õ¯‰ùª÷æó""^~š°‰ù¾÷æó$$C~÷±‰ù¾÷æó%%B~Ûó§ùÒ÷å÷(!(2~ƒô§ùëøå÷**<~èõ§ùÿøå÷,!,6~¢÷§ù“ùå÷..a~êø§ù§ùå÷11Q~ı§ùÉ6å÷3!8~„ş§ùÉ6å÷9!=~ ş§ù»ùå÷??W~íş§ùÉ6å÷A!F~‹œ½ù—+ÏùO O$~Ê¸¾ùßúóúR%RF~û¼¾ùšüóúYY¡~î½¾ù®üóú]]‰~³¾¾ùÂüóú`%`L~úù¾ùÖüêü§~¾ú¾ùö+”ş..€~ˆı¾ù»ÿÏÿ`#`9~¬¿ùÛ€Ïÿi%i4~â¿ù»ÿÏÿ¹%¹;~î”¿ùÛ€ÏÿÃ%Ã4~¶¡¿ùÂüÏÿääF~ÙæÆùì€€
+
+)~ıúÆù‚²‚*-~®Çù—+Õƒo/o3~ğÇù—+Õƒs%s)~›ÔÉùŞ„ò„:;H~ÌøÉù¯{”†&‡~ÅéÊù²‡È‡~îÊùÉ6È‡ ~ÁòËùÄÑöˆil~Ô÷ËùÄÑöˆx{~’ˆÌù¤Šöˆ¤¤I~°”ÌùÉ6öˆÆÊ~ê•Ìù¸ŠöˆÔÔ@~Ê–ÌùÄÑöˆŞá~£šÌùÌŠöˆëëƒ~êÍùàŠôŠUUD~ÊÎù›ŒôŠ±±E~†•ÎùÉ6ôŠü!ş	~›®Ïù¯ŒôŠàî~ş°Ïù¯{ôŠûı~ÔÀÏùÅŒôŠ–––~•ÂÏù¯{ôŠ™›~äÎÏùÙŒôŠ³³J~›şãùùíŒ"~°ˆäùùíŒ86@~êÇëù¤A~ê¾ıù²‡™2~ïÍıù²‡•P~ñìıùÉ6‹‘P	~Õñıù²‡‚’
+2~¯øıù²‡Š“
+2~àì ---
+run:
+  queries:
+   -
+    pack: soro/my-query-pack#0
+    relativeQueryPath: queries/query.ql
+    relativeBqrsPath: soro/my-query-pack/queries/query.bqrs
+    metadata: {}
+  extensionPacks: []
+  packs:
+    codeql/threat-models#2:
+      name: codeql/threat-models
+      version: 1.0.23
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/threat-models/1.0.23/
+      localPackDefinitionFile: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/threat-models/1.0.23/qlpack.yml
+      headSha: 4bb829ebec2082e8c06f02a7d9c07e181d27c784
+      runDataExtensions: []
+    soro/my-query-pack#0:
+      name: soro/my-query-pack
+      version: 0.0.1
+      isLibrary: false
+      isExtensionPack: false
+      localPath: file:///Users/soro/Documents/projects/rough-work/twenty/my-query-pack/
+      localPackDefinitionFile: file:///Users/soro/Documents/projects/rough-work/twenty/my-query-pack/qlpack.yml
+      runDataExtensions:
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/apollo-server.model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/apollo-server.model.yml
+        index: 1
+        firstRowId: 1
+        rowCount: 4
+        locations:
+          lineNumbers: A=12+1*3
+          columnNumbers: A=9*4
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/aws-sdk.model.yml
+        index: 0
+        firstRowId: 5
+        rowCount: 3
+        locations:
+          lineNumbers: A=6+1*2
+          columnNumbers: A=7*3
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/axios.model.yml
+        index: 0
+        firstRowId: 8
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/axios.model.yml
+        index: 1
+        firstRowId: 9
+        rowCount: 1
+        locations:
+          lineNumbers: A=12
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/default-threat-models-fixup.model.yml
+        index: 0
+        firstRowId: 10
+        rowCount: 1
+        locations:
+          lineNumbers: A=8
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/hana-db-client.model.yml
+        index: 0
+        firstRowId: 11
+        rowCount: 4
+        locations:
+          lineNumbers: A=6+1*3
+          columnNumbers: A=9*4
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/hana-db-client.model.yml
+        index: 1
+        firstRowId: 15
+        rowCount: 2
+        locations:
+          lineNumbers: A=15+1
+          columnNumbers: A=9*2
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/hana-db-client.model.yml
+        index: 2
+        firstRowId: 17
+        rowCount: 6
+        locations:
+          lineNumbers: A=22+1*5
+          columnNumbers: A=9*6
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/make-dir.model.yml
+        index: 0
+        firstRowId: 23
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/markdown-table.model.yml
+        index: 0
+        firstRowId: 24
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/mkdirp.model.yml
+        index: 0
+        firstRowId: 25
+        rowCount: 2
+        locations:
+          lineNumbers: A=6+1
+          columnNumbers: A=9*2
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/open.model.yml
+        index: 0
+        firstRowId: 27
+        rowCount: 2
+        locations:
+          lineNumbers: A=6+1
+          columnNumbers: A=9*2
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/react-relay-threat.model.yml
+        index: 0
+        firstRowId: 29
+        rowCount: 10
+        locations:
+          lineNumbers: A=6+1*9
+          columnNumbers: A=9*10
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/rimraf.model.yml
+        index: 0
+        firstRowId: 39
+        rowCount: 3
+        locations:
+          lineNumbers: A=6+1*2
+          columnNumbers: A=9*3
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/shelljs.model.yml
+        index: 0
+        firstRowId: 42
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/tanstack.model.yml
+        index: 0
+        firstRowId: 43
+        rowCount: 6
+        locations:
+          lineNumbers: A=6+1*5
+          columnNumbers: A=9*6
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/underscore.string.model.yml
+        index: 0
+        firstRowId: 49
+        rowCount: 5
+        locations:
+          lineNumbers: A=6+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: ext/underscore.string.model.yml
+        index: 1
+        firstRowId: 54
+        rowCount: 20
+        locations:
+          lineNumbers: A=16+1*19
+          columnNumbers: A=9*20
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/NoSQL.model.yml
+        index: 0
+        firstRowId: 74
+        rowCount: 4
+        locations:
+          lineNumbers: A=8+3+1*2
+          columnNumbers: A=9*4
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/NodeJSLib.model.yml
+        index: 0
+        firstRowId: 78
+        rowCount: 5
+        locations:
+          lineNumbers: A=6+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/SQL.model.yml
+        index: 0
+        firstRowId: 83
+        rowCount: 5
+        locations:
+          lineNumbers: A=6+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/SQL.model.yml
+        index: 1
+        firstRowId: 88
+        rowCount: 4
+        locations:
+          lineNumbers: A=16+1*3
+          columnNumbers: A=9*4
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/helmet/Helmet.Required.Setting.model.yml
+        index: 0
+        firstRowId: 92
+        rowCount: 2
+        locations:
+          lineNumbers: A=6+1
+          columnNumbers: A=9*2
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/minimongo/model.yml
+        index: 0
+        firstRowId: 94
+        rowCount: 75
+        locations:
+          lineNumbers: A=6+1*74
+          columnNumbers: A=9*75
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 0
+        firstRowId: 169
+        rowCount: 26
+        locations:
+          lineNumbers: A=6+1*25
+          columnNumbers: A=9*26
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 1
+        firstRowId: 195
+        rowCount: 611
+        locations:
+          lineNumbers: A=37+1*610
+          columnNumbers: A=9*611
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 2
+        firstRowId: 806
+        rowCount: 32
+        locations:
+          lineNumbers: A=653+1*31
+          columnNumbers: A=9*32
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 3
+        firstRowId: 838
+        rowCount: 102
+        locations:
+          lineNumbers: A=690+1*101
+          columnNumbers: A=9*102
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mssql/model.yml
+        index: 0
+        firstRowId: 940
+        rowCount: 34
+        locations:
+          lineNumbers: A=6+1*33
+          columnNumbers: A=9*34
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 0
+        firstRowId: 974
+        rowCount: 57
+        locations:
+          lineNumbers: A=6+1*56
+          columnNumbers: A=9*57
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 1
+        firstRowId: 1031
+        rowCount: 3
+        locations:
+          lineNumbers: A=68+1*2
+          columnNumbers: A=9*3
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 0
+        firstRowId: 1034
+        rowCount: 65
+        locations:
+          lineNumbers: A=6+1*64
+          columnNumbers: A=9*65
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 1
+        firstRowId: 1099
+        rowCount: 5
+        locations:
+          lineNumbers: A=76+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 2
+        firstRowId: 1104
+        rowCount: 23
+        locations:
+          lineNumbers: A=86+1*22
+          columnNumbers: A=9*23
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 0
+        firstRowId: 1127
+        rowCount: 7
+        locations:
+          lineNumbers: A=6+1*6
+          columnNumbers: A=9*7
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 1
+        firstRowId: 1134
+        rowCount: 248
+        locations:
+          lineNumbers: A=18+1*247
+          columnNumbers: A=9*248
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 2
+        firstRowId: 1382
+        rowCount: 5
+        locations:
+          lineNumbers: A=271+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 3
+        firstRowId: 1387
+        rowCount: 2
+        locations:
+          lineNumbers: A=281+1
+          columnNumbers: A=9*2
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 0
+        firstRowId: 1389
+        rowCount: 174
+        locations:
+          lineNumbers: A=6+1*173
+          columnNumbers: A=9*174
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 1
+        firstRowId: 1563
+        rowCount: 5
+        locations:
+          lineNumbers: A=185+1*4
+          columnNumbers: A=9*5
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 0
+        firstRowId: 1568
+        rowCount: 15
+        locations:
+          lineNumbers: A=6+1*14
+          columnNumbers: A=9*15
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 1
+        firstRowId: 1583
+        rowCount: 3
+        locations:
+          lineNumbers: A=26+1*2
+          columnNumbers: A=9*3
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/security/domains/IntegrityCheckingRequired/integrity_checking_required.model.yml
+        index: 0
+        firstRowId: 1586
+        rowCount: 3
+        locations:
+          lineNumbers: A=6+1*2
+          columnNumbers: A=9*3
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/security/domains/compromised/compromised_domains.model.yml
+        index: 0
+        firstRowId: 1589
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/javascript-all#1
+        relativePath: semmle/javascript/security/domains/untrusted/untrusted_domains.model.yml
+        index: 0
+        firstRowId: 1590
+        rowCount: 6
+        locations:
+          lineNumbers: A=7+1+3+1*3
+          columnNumbers: A=9*6
+       -
+        pack: codeql/threat-models#2
+        relativePath: ext/supported-threat-models.model.yml
+        index: 0
+        firstRowId: 1596
+        rowCount: 1
+        locations:
+          lineNumbers: A=6
+          columnNumbers: A=9
+       -
+        pack: codeql/threat-models#2
+        relativePath: ext/threat-model-grouping.model.yml
+        index: 0
+        firstRowId: 1597
+        rowCount: 15
+        locations:
+          lineNumbers: A=8+3+1+3+1*5+3+1+5+1*3
+          columnNumbers: A=9*15
+    codeql/javascript-all#1:
+      name: codeql/javascript-all
+      version: 2.6.3
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/javascript-all/2.6.3/
+      localPackDefinitionFile: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/javascript-all/2.6.3/qlpack.yml
+      headSha: 4bb829ebec2082e8c06f02a7d9c07e181d27c784
+      runDataExtensions: []
+    codeql/util#3:
+      name: codeql/util
+      version: 2.0.10
+      isLibrary: true
+      isExtensionPack: false
+      localPath: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/util/2.0.10/
+      localPackDefinitionFile: file:///Users/soro/codeql-home/codeql/qlpacks/codeql/util/2.0.10/qlpack.yml
+      headSha: 4bb829ebec2082e8c06f02a7d9c07e181d27c784
+      runDataExtensions: []
+metadata: {}
